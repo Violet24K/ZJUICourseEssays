@@ -14,3 +14,5 @@ CLCV 115, Mythology of Greece and Rome (希腊和罗马神话): Grade Pending
 ## Suggestions for writing an essay:
 
 ![essay1.png](figures/essay1.png)
+
+![essay2.png](figures/essay2.jpg)
